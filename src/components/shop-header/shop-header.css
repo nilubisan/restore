@@ -15,10 +15,15 @@
     align-self: center;
     font-size: 1.3rem;
     padding-right: 1rem;
+    padding-top: 0.5rem;
 }
 
 .shop-header .shopping-cart .cart-icon {
     font-size: 2.5rem;
     color: cadetblue;
     margin-right: 10px;
+}
+
+.shop-header-link {
+    text-decoration: none;
 }
